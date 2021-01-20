@@ -45,7 +45,9 @@
 
 ---
 
-<img align="left" alt="iDannyDev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=iDannyDev&show_icons=true&hide_border=true" />
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iDannyDev&show_icons=true&count_private=true&hide_border=true&icon_color=fff&bg_color=05B281&title_color=fff&text_color=fff" />
+</div>
 
 [website]: https://socieemly.com
 [twitter]: https://twitter.com/iDannyDev
