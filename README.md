@@ -46,7 +46,7 @@
 ---
 
 <div align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iDannyDev&layout=compact&theme=radical"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iDannyDev&layout=compact&theme=radical&hide_border=true"/>
   <br/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=iDannyDev&show_icons=true&hide_border=true&theme=radical"/>
 </div>
