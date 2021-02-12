@@ -46,10 +46,11 @@
 ---
 
 <div align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iDannyDev&layout=compact&theme=react&langs_count=4"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iDannyDev&layout=compact&theme=radical"/>
   <br/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iDannyDev&show_icons=true&count_private=false&hide_border=true&icon_color=fff&bg_color=05B281&title_color=fff&text_color=fff&theme=radical"/>
   <br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iDannyDev&show_icons=true&count_private=true&hide_border=true&icon_color=fff&bg_color=05B281&title_color=fff&text_color=fff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=iDannyDev&theme=radical&layout=compact"/>
 </div>
 
 
