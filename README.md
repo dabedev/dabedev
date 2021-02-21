@@ -52,7 +52,7 @@
 </div>
 
 
-[website]: https://socieemly.com
+[website]: https://danny.socieemly.com
 [twitter]: https://twitter.com/iDannyDev
 [youtube]: https://youtube.com/iDannyDev
 [instagram]: https://instagram.com/iDannyDev
