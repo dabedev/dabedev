@@ -15,7 +15,6 @@
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/768px-Python.svg.png"/>
 <img align="left" alt="Java" width="26px" src="https://icon-library.com/images/java-icon-images/java-icon-images-4.jpg"/>
 <img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png"/>
-<img align="left" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg"/>
 <img align="left" alt="Solidity" width="26px" src="https://hackr.io/tutorials/solidity/logo-solidity.svg"/>
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/>
 
@@ -52,7 +51,7 @@
 </div>
 
 
-[website]: https://danny.socieemly.com
-[twitter]: https://twitter.com/iDannyDev
-[youtube]: https://youtube.com/iDannyDev
-[instagram]: https://instagram.com/iDannyDev
+[website]: https://me.pyan.dev
+[twitter]: https://twitter.com/PyanDev
+[youtube]: https://youtube.com/PyanDev
+[instagram]: https://instagram.com/PyanDev
