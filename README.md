@@ -37,7 +37,7 @@
      <a href="https://expressjs.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="70" height="40"/> </a>
     <a href="https://www.docker.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/docker-226091.png" alt="docker" width="40" height="40"/> </a> 
     <a href="https://www.linux.org/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/linux-17-570099.png" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://webpack.js.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
-  <a href="https://httpd.apache.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/apache/apache-original-wordmark.svg" alt="apache" width="40" height="40"/> </a>
+  <a href="https://webpack.js.org/" target="_blank"> <img src="https://github.com/webpack/media/blob/master/logo/icon.svg" alt="webpack" width="40" height="40"/> </a>
+  <a href="https://httpd.apache.org/" target="_blank"> <img src="https://www.svgrepo.com/show/305711/apache.svg" alt="apache" width="40" height="40"/> </a>
     <a href="https://www.nginx.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/nginx-3521468-2945052.png" alt="nginx" width="40" height="40"/> </a>
 </p>
