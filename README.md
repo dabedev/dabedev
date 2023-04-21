@@ -15,15 +15,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/pyandev" target="_blank"><img src="https://img.shields.io/twitter/follow/danielbenitezpy?style=social" alt="Twitter"></a>
+  <a href="https://twitter.com/pyandev" target="_blank"><img src="https://img.shields.io/twitter/follow/PyanDev?style=social" alt="Twitter"></a>
   <a href="https://www.linkedin.com/in/pyandev/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn"></a>
-  <a href="https://github.com/pyand3v"><img src="https://img.shields.io/github/followers/danielbenitez.svg?style=social&label=Follow&maxAge=2592000" alt="GitHub"></a>
+  <a href="https://github.com/pyand3v"><img src="https://img.shields.io/github/followers/pyand3v.svg?style=social&label=Follow&maxAge=2592000" alt="GitHub"></a>
   <a href="https://dev.to/pyandev"><img src="https://img.shields.io/badge/dev.to-black?style=flat&logo=dev.to&labelColor=black" alt="Dev.to"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
       <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
       <a href="https://www.javascript.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
       <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
