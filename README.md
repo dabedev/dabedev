@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Daniel Benitez</h1>
-<h3 align="center">A passionate Systems Engineering Student from Paraguay<h3>
+<h3 align="center">A passionate Developer from Paraguay<h3>
 
 - 🔭 I’m currently working on [Renondera](https://www.renondera.com)
 
-- 🌱 I’m currently learning **React Native, Python, NextJS, PHP, Laravel**
+- 🌱 I’m currently learning **React Native, Python, Flask, Django, NextJS, PHP, Laravel**
 
 - 👨‍💻 All of my projects are available at [https://www.dabe.lat](https://www.dabe.lat)
 
@@ -30,11 +30,14 @@
       <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png" alt="react" width="40" height="40"/> </a> 
     <a href="https://reactnative.dev/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png" alt="react native" width="40" height="40"/> </a> 
-     <a href="https://expressjs.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="70" height="40"/> </a>
-    <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/django-2-282855.png" alt="django" width="40" height="40"/> </a> 
-    <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" alt="nodejs" width="40" height="40"/> </a> 
     <a href="https://nextjs.org/" target="_blank"> <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="nextjs" width="40" height="40"/> </a> 
+    <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/django-2-282855.png" alt="django" width="40" height="40"/> </a> 
+  <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40"/> </a>
+    <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" alt="nodejs" width="40" height="40"/> </a> 
+     <a href="https://expressjs.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="70" height="40"/> </a>
     <a href="https://www.docker.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/docker-226091.png" alt="docker" width="40" height="40"/> </a> 
     <a href="https://www.linux.org/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/linux-17-570099.png" alt="linux" width="40" height="40"/> </a> 
+  <a href="https://webpack.js.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
+  <a href="https://httpd.apache.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/apache/apache-original-wordmark.svg" alt="apache" width="40" height="40"/> </a>
     <a href="https://www.nginx.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/nginx-3521468-2945052.png" alt="nginx" width="40" height="40"/> </a>
 </p>
