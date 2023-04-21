@@ -16,9 +16,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/pyandev" target="_blank"><img src="https://img.shields.io/twitter/follow/PyanDev?style=social" alt="Twitter"></a>
-  <a href="https://www.linkedin.com/in/pyandev/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn"></a>
-  <a href="https://github.com/pyand3v"><img src="https://img.shields.io/github/followers/pyand3v.svg?style=social&label=Follow&maxAge=2592000" alt="GitHub"></a>
-  <a href="https://dev.to/pyandev"><img src="https://img.shields.io/badge/dev.to-black?style=flat&logo=dev.to&labelColor=black" alt="Dev.to"></a>
+  <a href="https://www.linkedin.com/in/pyandev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn"></a>
+  <a href="https://github.com/pyand3v" target="_blank"><img src="https://img.shields.io/github/followers/pyand3v.svg?style=social&label=Follow&maxAge=2592000" alt="GitHub"></a>
+  <a href="https://dev.to/pyandev" target="_blank"><img src="https://img.shields.io/badge/dev.to-black?style=flat&logo=dev.to&labelColor=black" alt="Dev.to"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
