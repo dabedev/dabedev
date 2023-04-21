@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **benitezdaniel6@gmail.com**
 
-- 📄 Know about my experiences [CV](https://cdn.dabe.lat/assets/cv/pyandev.pdf)
+- 📄 Know about my experiences [Résumé](https://cdn.dabe.lat/assets/cv/pyandev.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
