@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **React Native, Python, Flask, Django, NextJS, PHP, Laravel**
 
-- 👨‍💻 All of my projects are available at [https://www.dabe.lat](https://www.dabe.lat)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://www.dabe.lat)
 
-- 📝 I regularly write articles on [https://blog.dabe.lat](https://blog.dabe.lat)
+- 📝 I regularly write articles on [My Blog](https://blog.dabe.lat)
 
 - 📫 How to reach me **benitezdaniel6@gmail.com**
 
-- 📄 Know about my experiences [https://cdn.dabe.lat/assets/cv/pyandev.pdf](https://cdn.dabe.lat/assets/cv/pyandev.pdf)
+- 📄 Know about my experiences [CV](https://cdn.dabe.lat/assets/cv/pyandev.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
