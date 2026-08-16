@@ -1,66 +1,71 @@
 <h1 align="center">Hi 👋, I'm Daniel Benitez</h1>
 
 <p align="center">
-  Developer from Paraguay building thoughtful web and mobile products.
+  Developer from Paraguay building thoughtful web, desktop, and infrastructure products.
 </p>
 
 <p align="center">
-  <a href="https://www.renondera.com">Renondera</a>
+  <a href="https://www.bblocks.studio/">BBlocks</a>
   ·
-  <a href="https://www.dabe.lat">Portfolio</a>
+  <a href="https://www.dabe.im">Portfolio</a>
   ·
-  <a href="https://blog.dabe.lat">Blog</a>
+  <a href="https://www.dabe.im/blog">Blog</a>
   ·
-  <a href="https://cdn.dabe.lat/assets/cv/pyandev.pdf">Résumé</a>
+  <a href="https://cdn.dabe.im/assets/cv/pyandev.pdf">Résumé</a>
 </p>
 
 ## About me
 
-I'm a developer who enjoys turning ideas into reliable, useful digital experiences. I work across web and mobile development, with a focus on modern JavaScript and Python ecosystems.
+I'm a developer who enjoys turning ideas into reliable, useful digital experiences across web, desktop, systems, and platform engineering.
 
-- 🔭 Currently building [Renondera](https://www.renondera.com)
-- 🌱 Exploring React Native, Python, Flask, Django, Next.js, PHP, and Laravel
-- 👨‍💻 See more of my work at [dabe.lat](https://www.dabe.lat)
-- 📝 I share writing at [blog.dabe.lat](https://blog.dabe.lat)
+- 🔭 Currently building [BBlocks](https://www.bblocks.studio/)
+- 🌱 Exploring Zig, Rust, Go, Astro, Tauri, and Electron
+- 👨‍💻 See more of my work at [dabe.im](https://www.dabe.im)
+- 📝 I share writing at [dabe.im/blog](https://www.dabe.im/blog)
 - 📫 Reach me at [benitezdaniel6@gmail.com](mailto:benitezdaniel6@gmail.com)
 
 ## Technologies
 
-### Frontend
+### Languages
 
 <p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="42" height="42" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="42" height="42" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42" /></a>
   <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="42" height="42" /></a>
+  <a href="https://go.dev/" title="Go"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="42" height="42" /></a>
+  <a href="https://www.rust-lang.org/" title="Rust"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="Rust" width="42" height="42" /></a>
+  <a href="https://ziglang.org/" title="Zig"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zig/zig-original.svg" alt="Zig" width="42" height="42" /></a>
+</p>
+
+### Frontend frameworks
+
+<p>
   <a href="https://react.dev/" title="React"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="42" height="42" /></a>
-  <a href="https://nextjs.org/" title="Next.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="42" height="42" /></a>
+  <a href="https://astro.build/" title="Astro"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" alt="Astro" width="42" height="42" /></a>
 </p>
 
-### Mobile
+### Desktop
 
 <p>
-  <a href="https://reactnative.dev/" title="React Native"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="42" height="42" /></a>
+  <a href="https://tauri.app/" title="Tauri"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tauri/tauri-original.svg" alt="Tauri" width="42" height="42" /></a>
+  <a href="https://www.electronjs.org/" title="Electron"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="Electron" width="42" height="42" /></a>
 </p>
 
-### Backend
+### Backend frameworks
 
 <p>
-  <a href="https://www.python.org/" title="Python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="42" height="42" /></a>
-  <a href="https://www.djangoproject.com/" title="Django"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="42" height="42" /></a>
-  <a href="https://flask.palletsprojects.com/" title="Flask"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="42" height="42" /></a>
-  <a href="https://nodejs.org/" title="Node.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="42" height="42" /></a>
   <a href="https://expressjs.com/" title="Express"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="42" height="42" /></a>
-  <a href="https://www.php.net/" title="PHP"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="42" height="42" /></a>
-  <a href="https://laravel.com/" title="Laravel"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="42" height="42" /></a>
 </p>
 
-### DevOps & infrastructure
+### Platform & observability
 
 <p>
   <a href="https://www.docker.com/" title="Docker"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="42" height="42" /></a>
   <a href="https://www.linux.org/" title="Linux"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="42" height="42" /></a>
-  <a href="https://webpack.js.org/" title="Webpack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="Webpack" width="42" height="42" /></a>
+  <a href="https://traefik.io/traefik/" title="Traefik"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/traefik/traefik-original.svg" alt="Traefik" width="42" height="42" /></a>
+  <a href="https://www.terraform.io/" title="Terraform"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="42" height="42" /></a>
+  <a href="https://kubernetes.io/" title="Kubernetes"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="42" height="42" /></a>
+  <a href="https://grafana.com/" title="Grafana"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" width="42" height="42" /></a>
+  <a href="https://prometheus.io/" title="Prometheus"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="42" height="42" /></a>
   <a href="https://httpd.apache.org/" title="Apache"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache" width="42" height="42" /></a>
   <a href="https://nginx.org/" title="Nginx"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="42" height="42" /></a>
 </p>
@@ -73,6 +78,4 @@ I'm a developer who enjoys turning ideas into reliable, useful digital experienc
   <a href="https://github.com/pyand3v">GitHub</a>
   ·
   <a href="https://twitter.com/pyandev">X / Twitter</a>
-  ·
-  <a href="https://dev.to/pyandev">DEV Community</a>
 </p>
