@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Daniel Benitez</h1>
 
 <p align="center">
-  Developer from Paraguay building thoughtful web, desktop, and infrastructure products.
+  Forward Deployed Engineer from Paraguay, building thoughtful web, desktop, and infrastructure products.
 </p>
 
 <p align="center">
-  <a href="https://www.bblocks.studio/">BBlocks</a>
-  ·
   <a href="https://www.pyan.dev">Portfolio</a>
   ·
   <a href="https://www.pyan.dev/blog">Blog</a>
@@ -16,9 +14,8 @@
 
 ## About me
 
-I'm a developer who enjoys turning ideas into reliable, useful digital experiences across web, desktop, systems, and platform engineering.
+I'm a Forward Deployed Engineer who turns complex customer problems into reliable, useful products across web, desktop, systems, and platform engineering.
 
-- 🔭 Currently building [BBlocks](https://www.bblocks.studio/)
 - 🌱 Exploring Zig, Rust, Go, Astro, Tauri, and Electron
 - 👨‍💻 See more of my work at [pyan.dev](https://www.pyan.dev)
 - 📝 I share writing at [pyan.dev/blog](https://www.pyan.dev/blog)
@@ -79,3 +76,5 @@ I'm a developer who enjoys turning ideas into reliable, useful digital experienc
   ·
   <a href="https://twitter.com/pyandev">X / Twitter</a>
 </p>
+
+Have a product or systems challenge? [Let's talk](mailto:benitezdaniel6@gmail.com).
