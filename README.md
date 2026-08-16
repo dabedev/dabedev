@@ -19,7 +19,6 @@ I'm a Forward Deployed Engineer who turns complex customer problems into reliabl
 - 🌱 Exploring Zig, Rust, Go, Astro, Tauri, and Electron
 - 👨‍💻 See more of my work at [pyan.dev](https://www.pyan.dev)
 - 📝 I share writing at [pyan.dev/blog](https://www.pyan.dev/blog)
-- 📫 Reach me at [benitezdaniel6@gmail.com](mailto:benitezdaniel6@gmail.com)
 
 ## Technologies
 
@@ -89,4 +88,4 @@ I'm a Forward Deployed Engineer who turns complex customer problems into reliabl
   <a href="https://twitter.com/pyandev">X / Twitter</a>
 </p>
 
-<h2 align="center">Have a product or systems challenge? <a href="mailto:benitezdaniel6@gmail.com">Let's talk</a>.</h2>
+<h2 align="center">Have a product or systems challenge? Let's talk.</h2>
