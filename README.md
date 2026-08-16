@@ -1,43 +1,78 @@
 <h1 align="center">Hi 👋, I'm Daniel Benitez</h1>
-<h3 align="center">A passionate Developer from Paraguay<h3>
 
-- 🔭 I’m currently working on [Renondera](https://www.renondera.com)
-
-- 🌱 I’m currently learning **React Native, Python, Flask, Django, NextJS, PHP, Laravel**
-
-- 👨‍💻 All of my projects are available at [My Portfolio](https://www.dabe.lat)
-
-- 📝 I regularly write articles on [My Blog](https://blog.dabe.lat)
-
-- 📫 How to reach me **benitezdaniel6@gmail.com**
-
-- 📄 Know about my experiences [Résumé](https://cdn.dabe.lat/assets/cv/pyandev.pdf)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/pyandev" target="_blank"><img src="https://img.shields.io/twitter/follow/PyanDev?style=social" alt="Twitter"></a>
-  <a href="https://www.linkedin.com/in/pyandev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn"></a>
-  <a href="https://github.com/pyand3v" target="_blank"><img src="https://img.shields.io/github/followers/pyand3v.svg?style=social&label=Follow&maxAge=2592000" alt="GitHub"></a>
-  <a href="https://dev.to/pyandev" target="_blank"><img src="https://img.shields.io/badge/dev.to-black?style=flat&logo=dev.to&labelColor=black" alt="Dev.to"></a>
+<p align="center">
+  Developer from Paraguay building thoughtful web and mobile products.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-      <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-      <a href="https://www.javascript.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-      <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-      <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png" alt="react" width="40" height="40"/> </a> 
-    <a href="https://reactnative.dev/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png" alt="react native" width="40" height="40"/> </a> 
-    <a href="https://nextjs.org/" target="_blank"> <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="nextjs" width="40" height="40"/> </a> 
-    <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/django-2-282855.png" alt="django" width="40" height="40"/> </a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://static.javatpoint.com/tutorial/flask/images/flask-tutorial.png" alt="flask" width="40" height="40"/> </a>
-    <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" alt="nodejs" width="40" height="40"/> </a> 
-     <a href="https://expressjs.com" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" alt="express" width="70" height="40"/> </a>
-    <a href="https://www.docker.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/docker-226091.png" alt="docker" width="40" height="40"/> </a> 
-    <a href="https://www.linux.org/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/linux-17-570099.png" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://webpack.js.org/" target="_blank"> <img src="https://github.com/webpack/media/blob/master/logo/icon.svg" alt="webpack" width="40" height="40"/> </a>
-  <a href="https://httpd.apache.org/" target="_blank"> <img src="https://w7.pngwing.com/pngs/130/892/png-transparent-apache-tomcat-apache-http-server-web-server-java-servlet-javaserver-pages-others-miscellaneous-text-logo-thumbnail.png" alt="apache" width="40" height="40"/> </a>
-    <a href="https://www.nginx.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/nginx-3521468-2945052.png" alt="nginx" width="40" height="40"/> </a>
+<p align="center">
+  <a href="https://www.renondera.com">Renondera</a>
+  ·
+  <a href="https://www.dabe.lat">Portfolio</a>
+  ·
+  <a href="https://blog.dabe.lat">Blog</a>
+  ·
+  <a href="https://cdn.dabe.lat/assets/cv/pyandev.pdf">Résumé</a>
+</p>
+
+## About me
+
+I'm a developer who enjoys turning ideas into reliable, useful digital experiences. I work across web and mobile development, with a focus on modern JavaScript and Python ecosystems.
+
+- 🔭 Currently building [Renondera](https://www.renondera.com)
+- 🌱 Exploring React Native, Python, Flask, Django, Next.js, PHP, and Laravel
+- 👨‍💻 See more of my work at [dabe.lat](https://www.dabe.lat)
+- 📝 I share writing at [blog.dabe.lat](https://blog.dabe.lat)
+- 📫 Reach me at [benitezdaniel6@gmail.com](mailto:benitezdaniel6@gmail.com)
+
+## Technologies
+
+### Frontend
+
+<p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="42" height="42" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="42" height="42" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42" /></a>
+  <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="42" height="42" /></a>
+  <a href="https://react.dev/" title="React"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="42" height="42" /></a>
+  <a href="https://nextjs.org/" title="Next.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="42" height="42" /></a>
+</p>
+
+### Mobile
+
+<p>
+  <a href="https://reactnative.dev/" title="React Native"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="42" height="42" /></a>
+</p>
+
+### Backend
+
+<p>
+  <a href="https://www.python.org/" title="Python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="42" height="42" /></a>
+  <a href="https://www.djangoproject.com/" title="Django"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="42" height="42" /></a>
+  <a href="https://flask.palletsprojects.com/" title="Flask"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="42" height="42" /></a>
+  <a href="https://nodejs.org/" title="Node.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="42" height="42" /></a>
+  <a href="https://expressjs.com/" title="Express"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="42" height="42" /></a>
+  <a href="https://www.php.net/" title="PHP"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="42" height="42" /></a>
+  <a href="https://laravel.com/" title="Laravel"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="42" height="42" /></a>
+</p>
+
+### DevOps & infrastructure
+
+<p>
+  <a href="https://www.docker.com/" title="Docker"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="42" height="42" /></a>
+  <a href="https://www.linux.org/" title="Linux"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="42" height="42" /></a>
+  <a href="https://webpack.js.org/" title="Webpack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="Webpack" width="42" height="42" /></a>
+  <a href="https://httpd.apache.org/" title="Apache"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache" width="42" height="42" /></a>
+  <a href="https://nginx.org/" title="Nginx"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="42" height="42" /></a>
+</p>
+
+## Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/pyandev/">LinkedIn</a>
+  ·
+  <a href="https://github.com/pyand3v">GitHub</a>
+  ·
+  <a href="https://twitter.com/pyandev">X / Twitter</a>
+  ·
+  <a href="https://dev.to/pyandev">DEV Community</a>
 </p>
