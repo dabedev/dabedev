@@ -51,6 +51,18 @@ I'm a Forward Deployed Engineer who turns complex customer problems into reliabl
 
 <p>
   <a href="https://expressjs.com/" title="Express"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="42" height="42" /></a>
+  <a href="https://github.com/tokio-rs/axum" title="Axum"><img src="https://cdn.simpleicons.org/axum" alt="Axum" width="42" height="42" /></a>
+  <a href="https://nestjs.com/" title="NestJS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="NestJS" width="42" height="42" /></a>
+</p>
+
+### Databases
+
+<p>
+  <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="42" height="42" /></a>
+  <a href="https://mariadb.org/" title="MariaDB"><img src="https://cdn.simpleicons.org/mariadb" alt="MariaDB" width="42" height="42" /></a>
+  <a href="https://www.mysql.com/" title="MySQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="42" height="42" /></a>
+  <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="42" height="42" /></a>
+  <a href="https://redis.io/" title="Redis"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="42" height="42" /></a>
 </p>
 
 ### Platform & observability
@@ -77,4 +89,4 @@ I'm a Forward Deployed Engineer who turns complex customer problems into reliabl
   <a href="https://twitter.com/pyandev">X / Twitter</a>
 </p>
 
-Have a product or systems challenge? [Let's talk](mailto:benitezdaniel6@gmail.com).
+<h2 align="center">Have a product or systems challenge? <a href="mailto:benitezdaniel6@gmail.com">Let's talk</a>.</h2>
