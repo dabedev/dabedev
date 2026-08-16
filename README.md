@@ -7,11 +7,11 @@
 <p align="center">
   <a href="https://www.bblocks.studio/">BBlocks</a>
   ·
-  <a href="https://www.dabe.im">Portfolio</a>
+  <a href="https://www.pyan.dev">Portfolio</a>
   ·
-  <a href="https://www.dabe.im/blog">Blog</a>
+  <a href="https://www.pyan.dev/blog">Blog</a>
   ·
-  <a href="https://cdn.dabe.im/assets/cv/pyandev.pdf">Résumé</a>
+  <a href="https://cdn.pyan.dev/assets/cv/pyandev.pdf">Résumé</a>
 </p>
 
 ## About me
@@ -20,8 +20,8 @@ I'm a developer who enjoys turning ideas into reliable, useful digital experienc
 
 - 🔭 Currently building [BBlocks](https://www.bblocks.studio/)
 - 🌱 Exploring Zig, Rust, Go, Astro, Tauri, and Electron
-- 👨‍💻 See more of my work at [dabe.im](https://www.dabe.im)
-- 📝 I share writing at [dabe.im/blog](https://www.dabe.im/blog)
+- 👨‍💻 See more of my work at [pyan.dev](https://www.pyan.dev)
+- 📝 I share writing at [pyan.dev/blog](https://www.pyan.dev/blog)
 - 📫 Reach me at [benitezdaniel6@gmail.com](mailto:benitezdaniel6@gmail.com)
 
 ## Technologies
