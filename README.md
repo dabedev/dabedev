@@ -61,7 +61,7 @@ I'm a developer who enjoys turning ideas into reliable, useful digital experienc
 <p>
   <a href="https://www.docker.com/" title="Docker"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="42" height="42" /></a>
   <a href="https://www.linux.org/" title="Linux"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="42" height="42" /></a>
-  <a href="https://traefik.io/traefik/" title="Traefik"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/traefik/traefik-original.svg" alt="Traefik" width="42" height="42" /></a>
+  <a href="https://traefik.io/traefik/" title="Traefik"><img src="https://cdn.simpleicons.org/traefikproxy" alt="Traefik" width="42" height="42" /></a>
   <a href="https://www.terraform.io/" title="Terraform"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="42" height="42" /></a>
   <a href="https://kubernetes.io/" title="Kubernetes"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="42" height="42" /></a>
   <a href="https://grafana.com/" title="Grafana"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" width="42" height="42" /></a>
