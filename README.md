@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Benitez</h1>
 
 <p align="center">
-  Forward Deployed Engineer from Paraguay, building thoughtful web, desktop, and infrastructure products.
+  Product Engineer from Paraguay, building thoughtful web, desktop, and infrastructure products from idea to reliable launch.
 </p>
 
 <p align="center">
@@ -14,13 +14,14 @@
 
 ## About me
 
-I'm a Forward Deployed Engineer who turns complex customer problems into reliable, useful products across web, desktop, systems, and platform engineering.
+I'm a Product Engineer who turns real customer problems into useful, reliable software. I work across product discovery, interface design, application development, and the systems that keep products dependable in production.
 
+- 🧭 I enjoy taking products from ambiguous problem to a clear, usable outcome
 - 🌱 Exploring Zig, Rust, Go, Astro, Tauri, and Electron
 - 👨‍💻 See more of my work at [pyan.dev](https://pyan.dev)
 - 📝 I share writing at [pyan.dev/blog](https://pyan.dev/blog)
 
-## Technologies
+## Product engineering toolkit
 
 ### Languages
 
@@ -32,21 +33,21 @@ I'm a Forward Deployed Engineer who turns complex customer problems into reliabl
   <a href="https://ziglang.org/" title="Zig"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zig/zig-original.svg" alt="Zig" width="42" height="42" /></a>
 </p>
 
-### Frontend frameworks
+### Product interfaces
 
 <p>
   <a href="https://react.dev/" title="React"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="42" height="42" /></a>
   <a href="https://astro.build/" title="Astro"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" alt="Astro" width="42" height="42" /></a>
 </p>
 
-### Desktop
+### Desktop products
 
 <p>
   <a href="https://tauri.app/" title="Tauri"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tauri/tauri-original.svg" alt="Tauri" width="42" height="42" /></a>
   <a href="https://www.electronjs.org/" title="Electron"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="Electron" width="42" height="42" /></a>
 </p>
 
-### Backend frameworks
+### Product services
 
 <p>
   <a href="https://expressjs.com/" title="Express"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="42" height="42" /></a>
@@ -64,7 +65,7 @@ I'm a Forward Deployed Engineer who turns complex customer problems into reliabl
   <a href="https://redis.io/" title="Redis"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="42" height="42" /></a>
 </p>
 
-### Platform & observability
+### Delivery & reliability
 
 <p>
   <a href="https://www.docker.com/" title="Docker"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="42" height="42" /></a>
@@ -88,4 +89,4 @@ I'm a Forward Deployed Engineer who turns complex customer problems into reliabl
   <a href="https://twitter.com/pyandev">X / Twitter</a>
 </p>
 
-<h2 align="center">Have a product or systems challenge? Let's talk.</h2>
+<h2 align="center">Have a product idea or a hard customer problem? Let's talk.</h2>
