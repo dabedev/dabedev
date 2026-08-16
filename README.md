@@ -51,7 +51,7 @@ I'm a Forward Deployed Engineer who turns complex customer problems into reliabl
 
 <p>
   <a href="https://expressjs.com/" title="Express"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="42" height="42" /></a>
-  <a href="https://github.com/tokio-rs/axum" title="Axum"><img src="https://cdn.simpleicons.org/axum" alt="Axum" width="42" height="42" /></a>
+  <a href="https://github.com/tokio-rs/axum" title="Axum"><img src="https://img.shields.io/badge/Axum-000000?style=flat-square&amp;logo=rust&amp;logoColor=white" alt="Axum" height="42" /></a>
   <a href="https://nestjs.com/" title="NestJS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="NestJS" width="42" height="42" /></a>
 </p>
 
