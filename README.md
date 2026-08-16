@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.pyan.dev">Portfolio</a>
+  <a href="https://pyan.dev">Portfolio</a>
   ·
-  <a href="https://www.pyan.dev/blog">Blog</a>
+  <a href="https://pyan.dev/blog">Blog</a>
   ·
   <a href="https://cdn.pyan.dev/assets/cv/pyandev.pdf">Résumé</a>
 </p>
@@ -17,8 +17,8 @@
 I'm a Forward Deployed Engineer who turns complex customer problems into reliable, useful products across web, desktop, systems, and platform engineering.
 
 - 🌱 Exploring Zig, Rust, Go, Astro, Tauri, and Electron
-- 👨‍💻 See more of my work at [pyan.dev](https://www.pyan.dev)
-- 📝 I share writing at [pyan.dev/blog](https://www.pyan.dev/blog)
+- 👨‍💻 See more of my work at [pyan.dev](https://pyan.dev)
+- 📝 I share writing at [pyan.dev/blog](https://pyan.dev/blog)
 
 ## Technologies
 
